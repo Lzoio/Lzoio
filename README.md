@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, I'm Luca Zoio, a computer science major from Rio de Janeiro, Brazil!
+### Welcome to my Github profile.
 
-<!--
-**Lzoio/Lzoio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "A good programmer is someone who always looks both ways before crossing a one-way street" - Doug Linder
 
-Here are some ideas to get you started:
+- 💻 I'm currently working on: An Enterprise Source Planning (ERP) for a (hypotetic) clothing store.
+  - 🧰 Tools used / that are being used: IntelliJ, MySQL, Apache Tomcat, Figma (for design planning) and Java Server Faces (JSF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning and improving in different topics, such as:
+  - Cybersecurity: via Cisco courses and Dio Bootcamp
+  - AI Product Manager: via Coursera and Microsoft courses
+  - Ethical Hacking and Machine Learning: via Udemy courses
+
+- 🌜 Fun facts:
+  - I also make projects with Arduino, and even gave classes to begginers using open source hardware!
+  - My ideal drinks while coding are: Coffe, Peach Iced Tea and White Monster 🥤
