@@ -3,9 +3,6 @@
 
 > "A good programmer is someone who always looks both ways before crossing a one-way street" - Doug Linder
 
-- 💻 I'm currently working on: An Enterprise Source Planning (ERP) for a (hypotetic) clothing store.
-  - 🧰 Tools used / that are being used: IntelliJ, MySQL, Apache Tomcat, Figma (for design planning) and Java Server Faces (JSF)
-
 - 🌱 I'm currently learning and improving in different topics, such as:
   - Cybersecurity: via Cisco courses and Dio Bootcamp
   - AI Product Manager: via Coursera and Microsoft courses
