@@ -6,7 +6,7 @@
   > 
   > * Bacharelado em Ciência da Computação na UERJ<br>
   > * Fullstack, Engenharia de Requisitos e Robótica<br>
-  > * 📚 Estudos: Cybersegurança, Análise de Dados e DevOPS</p>
+  > * 📚 Estudos: Cybersegurança, Análise de Dados, Machine Learning e DevOPS</p>
 
 ###
 
