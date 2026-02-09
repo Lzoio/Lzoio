@@ -32,7 +32,15 @@
 
 ###
 
-<img align="left" height="300" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80"  />
+<img align="left" height="250" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80"  />
+
+###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lzoio&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
+</div>
 
 ###
 
