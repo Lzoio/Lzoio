@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lzoio&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lzoio&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
