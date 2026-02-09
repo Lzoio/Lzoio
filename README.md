@@ -1,15 +1,33 @@
 <br clear="both">
 
-<h2 align="center">Olá! Me chamo Luca Zoio!</h2>
+<div>
+  <p align="center">
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Nice%20To%20Meet%20You%20%F0%9F%96%A5&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  </p>
+</div>
 
 ###
-  > 
-  > * Bacharelado em Ciência da Computação na UERJ<br>
-  > * Fullstack, Engenharia de Requisitos e Robótica<br>
-  > * 📚 Estudos: Cybersegurança, Análise de Dados, Machine Learning e DevOPS</p>
+
+<br clear="both">
+
+<h2 align="center">Know more about me and my projects:</h2>
 
 ###
 
+<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJldHF3ODhhOW56cDYwOWxvZTdmMW5teTR6dmVjdHk5bDF0MTc4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5yJ9iryTtZr2bjsXV/giphy.gif"  />
+
+###
+  > [!NOTE]
+  > Bacharelado em Ciência da Computação na UERJ<br>
+  > Fullstack, Engenharia de Requisitos e Robótica<br>
+  > 📚 Estudos: Cybersegurança, Análise de Dados, Machine Learning e DevOPS<p>
+  
+
+
+###
+
+###
+<br clear="both">
 <h2 align="left"> Github Insights</h2>
 
 ###
@@ -17,11 +35,6 @@
 <img align="left" height="300" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lzoio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lzoio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
 ###
 
