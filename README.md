@@ -20,7 +20,7 @@
   > [!NOTE]
   > Computer Science @ UERJ<br>
   > Fullstack & Robotics<br>
-  > 📚 Estudos: Análise de Dados (R & Python), Machine Learning & Flutter<p>
+  > 📚 Studies: Data Analysis (R & Python), Machine Learning & Flutter<p>
   
 
 
