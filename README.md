@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h2 align="center">Know more about me and my projects:</h2>
+<h2 align="center"> Know more about me and my projects: </h2>
 
 ###
 
