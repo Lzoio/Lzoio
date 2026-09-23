@@ -1,57 +1,93 @@
 <br clear="both">
 
-<div>
-  <p align="center">
-    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Nice%20To%20Meet%20You%20%F0%9F%96%A5&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=3051b7"  />
-  </p>
-</div>
+<div align="center">
 
-###
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&text=Hey!%20Good%20to%20see%20you%20%F0%9F%96%A5%EF%B8%8F&fontSize=45&fontColor=b1b0cf&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Computer%20Science%20%40%20UERJ%20%7C%20Informatics%20Engineering%20%40%20UPB&descSize=18&descAlign=50&descAlignY=75&textBg=false&color=0A0752"
+    width="100%"
+    alt="Hey! Good to see you"
+  />
+      <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+      height="50"
+      alt="Pandas"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://cdn.simpleicons.org/python/3776AB"
+      height="50"
+      alt="Python"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      height="50"
+      alt="PostgreSQL"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      height="50"
+      alt="Docker"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+      height="50"
+      alt="Flutter"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      height="50"
+      alt="Java"
+    />
+    &nbsp;&nbsp;
+    <img
+      src="https://skillicons.dev/icons?i=aws"
+      height="50"
+      alt="AWS"
+    />
+  </div>
 <br clear="both">
-
+  <div align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="Twitter"
+    />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
+      height="25"
+      alt="Discord"
+    />
+  </a>
+</div>
 <h2 align="center"> Know more about me and my projects: </h2>
 
-###
-
-<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJldHF3ODhhOW56cDYwOWxvZTdmMW5teTR6dmVjdHk5bDF0MTc4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5yJ9iryTtZr2bjsXV/giphy.gif"  />
+<img align="right" height="270" src="https://i.pinimg.com/originals/ec/79/b8/ec79b8fe34c94630c9bb302f5e32c68f.gif"  />
 
 ###
-  > [!NOTE]
-  > Computer Science @ UERJ<br>
-  > Fullstack & Robotics<br>
-  > 📚 Studies: Data Analysis (R & Python), Machine Learning & Flutter<p>
-  
-<br clear="both">
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java logo"/>
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="30" alt="raspberrypi logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
-  <img width="7" />
-  
-  
-  
-  
-</div>
-
-###
+> <p align="left">
+> <strong>Computer Science @ UERJ | Informatics Engineering @ UPB</strong><br>
+> <strong>AI Engineering | Machine Learning | Robotics</strong><br>
+> 📚 <strong>Improvements:</strong> Data Analysis, Flutter and Typescript <br>
+> <strong> Main Projects: </strong><br>
+> - IoT for Instrumentation in Laboratories with ESP32, Raspberry and Arduino <br>
+> - Junior Company for LMS based App with Flutter (Mobile), .NET and C#
+<br clear="both">  
 
 ###
 <br clear="both">
@@ -59,27 +95,13 @@
 
 ###
 
-<img align="left" height="250" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80"  />
+<img align="left" height="250" src="https://i.pinimg.com/originals/9b/41/c3/9b41c36439a42231078b3eba12ea79c3.gif"  />
 
 ###
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lzoio&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=Lzoio&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-###
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lzoio/)
-
-###
