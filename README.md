@@ -51,29 +51,22 @@
   </div>
 <br clear="both">
   <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/lzoio" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
+      height="45"
       alt="LinkedIn"
     />
   </a>
   &nbsp;
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/storm_luchu" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge"
-      height="25"
+      height="45"
       alt="Twitter"
     />
   </a>
   &nbsp;
-  <a href="https://discord.com/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Discord"
-    />
-  </a>
 </div>
 <h2 align="center"> Know more about me and my projects: </h2>
 
