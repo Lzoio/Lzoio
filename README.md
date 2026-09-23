@@ -95,7 +95,7 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/originals/9b/41/c3/9b41c36439a42231078b3eba12ea79c3.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/9b/41/c3/9b41c36439a42231078b3eba12ea79c3.gif"  />
 
 ###
 
